@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaun.</h1>
 <h3 align="center">A passionate Software engineer from the UK.</h3>
 
-- 👀 I’m interested in ... programming in general, Python, JS, FPL, Software Development, Data analysis, most sports including football, cricket, tennis and rugby.
+- 👀 I’m interested in ... Python, JS, Azure, Software Development, Data analysis, sports and making arduous tasks simpler with automation.
 
 
 - 🔭 I’m currently working on [LostFPL](LostFPL.co.uk)
