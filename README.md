@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [LostFPL](http://LostFPL.co.uk) and [Room Booking](https://github.com/sjmabs/roombooking)
 
+- 🌱 I’m currently learning React 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaun-mabin-862bb5104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaun-mabin-862bb5104/" height="30" width="40" /></a>
