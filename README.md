@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [LostFPL](http://LostFPL.co.uk) and [Room Booking](https://github.com/sjmabs/roombooking)
 
-- 🌱 I’m currently learning React to make my Front End UI more user-friendly and pretty!
+- 🌱 I’m currently learning React to build interactive elements and UI components.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
