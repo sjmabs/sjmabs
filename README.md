@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaun.</h1>
-<h3 align="center">A passionate Software engineer from the UK.</h3>
+<h3 align="center">A passionate Software developer from the UK.</h3>
 
 - 👀 I’m interested in ... Python, JS, Azure, Software Development, Data analysis, sports and making arduous tasks simpler with automation.
 
