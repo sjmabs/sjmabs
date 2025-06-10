@@ -16,4 +16,4 @@
 - Developing full-stack web applications
 - Contributing to open source projects
 
-📫 **Contact:** shaun.mabin@hotmail.co.uk | [LinkedIn]/shaun-mabin
+📫 **Contact:** shaun.mabin@hotmail.co.uk | https://www.linkedin.com/in/shaun-mabin
